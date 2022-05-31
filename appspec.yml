@@ -1,0 +1,11 @@
+version: 0.0 
+
+os: linux 
+
+ 
+
+files: 
+
+  - source: /dist/ 
+
+    destination: /var/www/d-new-project.wdc-dev.com/ 
